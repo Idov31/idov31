@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center" style="color:lightblue">Idov31 | My stats</h2>
-<h3>------------------------------------------------------------------------------------------------------------------------</h3>
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=idov31&show_icons=true&line_height=29.9&count_private=true&theme=tokyonight" alt="Ido's GitHub Stats" />
 <img width="49.85%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=idov31&theme=tokyonight" />
-<h3>------------------------------------------------------------------------------------------------------------------------</h3>
