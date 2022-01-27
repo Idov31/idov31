@@ -1,8 +1,17 @@
 <h1 align="center">Hi there!</h1>
 <b>About me:</b><br />
-3+ Years of expirence in cyber security.<br />
-6+ Years of expirence in programming.<br /><br />
+4+ Years of expirence in cyber security.<br />
+7+ Years of expirence in programming.<br /><br />
 🐱‍💻⚡ I'm a pentester and reverse engineer who loves to create projects in my spare time. ⚡🐱‍💻<br /><br />
+💭 Currently working on: 
+<ul>
+  <li>Write the article for FunctionStomping.</li>
+  <li>Create rust program for FunctionStomping.</li>
+</ul><br />
+💡 Need help with: 
+<ul>
+  <li>Create rust program for FunctionStomping.</li>
+</ul><br /><br />
 
 <b>My Top Languages Are:</b><br /><br />
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
