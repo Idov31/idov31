@@ -2,7 +2,8 @@
 <b>About me:</b><br />
 4+ Years of expirence in cyber security.<br />
 7+ Years of expirence in programming.<br /><br />
-🐱‍💻⚡ I'm a pentester and reverse engineer who loves to create projects in my spare time. ⚡🐱‍💻<br /><br />
+💻⚡ I'm a pentester and reverse engineer who loves to create projects in my spare time.⚡💻
+<br /><br />
 💭 Currently working on: 
 <ul>
   <li>Create rust program for FunctionStomping.</li>
