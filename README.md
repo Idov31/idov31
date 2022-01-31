@@ -6,12 +6,12 @@
 <br /><br />
 💭 Currently working on: 
 <ul>
-  <li>Create rust program for FunctionStomping.</li>
-</ul><br />
-💡 Need help with: 
-<ul>
-  <li>Create rust program for FunctionStomping.</li>
+  <li>Playing around with bootloader</li>
 </ul><br /><br />
+<!-- 💡 Need help with: 
+<ul>
+  <li>things</li>
+</ul><br /><br /> -->
 <b>My Top Languages Are:</b><br /><br />
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
