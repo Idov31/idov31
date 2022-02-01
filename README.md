@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!</h1>
+<h1 align="center">Hi there! 👋</h1>
 <b>About me:</b><br />
 4+ Years of expirence in cyber security.<br />
 7+ Years of expirence in programming.<br /><br />
@@ -6,7 +6,11 @@
 <br /><br />
 💭 Currently working on: 
 <ul>
-  <li>Playing around with bootloader</li>
+  <li>Playing around with bootloader.</li>
+</ul><br />
+📙 Currently learning:
+<ul>
+  <li>Injection methods in *nix systems.</li>
 </ul><br /><br />
 <!-- 💡 Need help with: 
 <ul>
