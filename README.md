@@ -6,7 +6,7 @@
 <br /><br />
 💭 Currently working on: 
 <ul>
-  <li>Playing around with bootloader.</li>
+  <li>Evasion and anti-logging techniques for windows.</li>
 </ul><br />
 📙 Currently learning:
 <ul>
