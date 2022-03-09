@@ -22,7 +22,7 @@
   <li>things</li>
 </ul><br /><br /> -->
 <div align="center">
-  <h2 style="color:lightblue">⚒️ Coding Languages ⚒️</h2>
+  <h2 style="color:lightblue">⚒️ Programming Languages ⚒️</h2>
     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>&nbsp;&nbsp;&nbsp;
