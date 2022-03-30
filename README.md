@@ -6,7 +6,7 @@
 <br /><br />
 💭 Currently working on: 
 <ul>
-  <li>Evasion and anti-logging techniques for windows.</li>
+  <li>Beta version for MrKaplan.</li>
 </ul><br />
 📙 Currently learning:
 <ul>
