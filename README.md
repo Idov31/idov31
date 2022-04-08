@@ -6,7 +6,7 @@
 <br /><br />
 💭 Currently working on: 
 <ul>
-  <li>Beta version for MrKaplan.</li>
+  <li>Stable release for MrKaplan.</li>
 </ul><br />
 📙 Currently learning:
 <ul>
