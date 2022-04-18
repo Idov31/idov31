@@ -2,25 +2,25 @@
 <b>👨🏻‍💻 About me:</b><br />
 4+ Years of expirence in cyber security.<br />
 7+ Years of expirence in programming.<br /><br />
-💻⚡ I'm a pentester and reverse engineer that love to create projects in my spare time.⚡💻
+💻⚡ I'm an offensive security researcher that loves to create and share projects and other nice stuff. ⚡💻
 <br /><br />
 💭 Currently working on: 
 <ul>
-  <li>Stable release for MrKaplan.</li>
+  <li>C2 framework</li>
 </ul><br />
 📙 Currently learning:
 <ul>
-  <li>Injection methods in *nix systems.</li>
+  <li>Exploitation methods</li>
 </ul><br />
+<!-- 💡 Need help with: 
+<ul>
+  <li>things</li>
+</ul><br /><br /> -->
 🌐 My blog posts:
 <ul>
   <li><a href="https://idov31.github.io/2022-01-28-function-stomping/">The good, the bad and the stomped function</a></li>
   <li><a href="https://idov31.github.io/2021-08-19-list-udp-connections/">UdpInspector - Getting active UDP connections without sniffing</a></li>
 </ul><br /><br />
-<!-- 💡 Need help with: 
-<ul>
-  <li>things</li>
-</ul><br /><br /> -->
 <div align="center">
   <h2 style="color:lightblue">⚒️ Programming Languages ⚒️</h2>
     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;&nbsp;&nbsp;
