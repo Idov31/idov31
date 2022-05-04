@@ -6,7 +6,8 @@
 <br /><br />
 💭 Currently working on: 
 <ul>
-  <li>C2 framework</li>
+  <li>Linux C2 framework</li>
+  <li>MrKaplan v1.1</li>
 </ul><br />
 📙 Currently learning:
 <ul>
