@@ -36,5 +36,5 @@
 </div>
 <br /><br />
 <h2 align="center" style="color:lightblue">📊 My stats 📊</h2><br />
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=idov31&show_icons=true&line_height=29.9&count_private=true&theme=tokyonight" alt="Ido's GitHub Stats" />
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=idov31&show_icons=true&line_height=29.9&theme=tokyonight" alt="Ido's GitHub Stats" />
 <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=idov31&count_private=true&theme=tokyonight" />
