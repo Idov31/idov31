@@ -6,6 +6,7 @@
 <br /><br />
 💭 Currently working on: 
 <ul>
+  <li>Version 1.0 of Nidhogg</li>
   <li>Linux C2 framework</li>
 </ul><br />
 📙 Currently learning:
