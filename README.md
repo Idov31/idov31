@@ -11,7 +11,7 @@
 </ul><br />
 📙 Currently learning:
 <ul>
-  <li>Exploitation methods</li>
+  <li>Linux Internals</li>
 </ul><br />
 <!-- 💡 Need help with: 
 <ul>
