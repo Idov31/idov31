@@ -7,11 +7,10 @@
 💭 Currently working on: 
 <ul>
   <li>Version 0.1 of Nidhogg</li>
-  <li>Linux C2 framework</li>
 </ul><br />
 📙 Currently learning:
 <ul>
-  <li>Linux Internals</li>
+  <li>Kotlin & Development for Android</li>
 </ul><br />
 <!-- 💡 Need help with: 
 <ul>
