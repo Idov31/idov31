@@ -6,7 +6,7 @@
 <br /><br />
 💭 Currently working on: 
 <ul>
-  <li>Version 0.1 of Nidhogg</li>
+  <li>Blog post</li>
 </ul><br />
 📙 Currently learning:
 <ul>
