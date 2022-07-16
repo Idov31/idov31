@@ -6,7 +6,7 @@
 <br /><br />
 💭 Currently working on: 
 <ul>
-  <li>Blog post</li>
+  <li>Lord Of The Ring0 series</li>
 </ul><br />
 📙 Currently learning:
 <ul>
