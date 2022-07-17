@@ -18,6 +18,7 @@
 </ul><br /><br /> -->
 🌐 My blog posts:
 <ul>
+  <li><a href="https://idov31.github.io/2022-07-14-lord-of-the-ring0-p1/">Lord Of The Ring0</a></li>
   <li><a href="https://idov31.github.io/2022-05-07-rust101-rustomware/">Rust101 - Building a ransomware</a></li>
   <li><a href="https://idov31.github.io/2022-01-28-function-stomping/">The good, the bad and the stomped function</a></li>
   <li><a href="https://idov31.github.io/2021-08-19-list-udp-connections/">UdpInspector - Getting active UDP connections without sniffing</a></li>
