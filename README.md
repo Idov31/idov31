@@ -39,5 +39,5 @@
 <br /><br />
 <h2 align="center" style="color:lightblue">📊 My stats 📊</h2><br />
 
-![Ido's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=idov31&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff)&nbsp;&nbsp;&nbsp;
+![Ido's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=idov31&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff)&nbsp;
 ![Ido's Commits](https://github-readme-streak-stats.herokuapp.com/?user=idov31&count_private=true&theme=tokyonight)
