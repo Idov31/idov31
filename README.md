@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there! 👋</h1>
 <b>👨🏻‍💻 About me:</b><br />
 4+ Years of expirence in cyber security.<br />
@@ -37,5 +38,6 @@
 </div>
 <br /><br />
 <h2 align="center" style="color:lightblue">📊 My stats 📊</h2><br />
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=idov31&show_icons=true&line_height=29.9&theme=tokyonight" alt="Ido's GitHub Stats" />
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=idov31&count_private=true&theme=tokyonight" />
+
+![Ido's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=idov31&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff)&nbsp;&nbsp;&nbsp;
+![Ido's Commits](https://github-readme-streak-stats.herokuapp.com/?user=idov31&count_private=true&theme=tokyonight)
