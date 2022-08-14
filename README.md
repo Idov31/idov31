@@ -11,7 +11,7 @@
 </ul><br />
 📙 Currently learning:
 <ul>
-  <li>Kotlin & Development for Android</li>
+  <li>Exploitation Methods</li>
 </ul><br />
 <!-- 💡 Need help with: 
 <ul>
