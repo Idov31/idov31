@@ -7,7 +7,6 @@
 <br /><br />
 💭 Currently working on: 
 <ul>
-  <li>Sandman</li>
   <li>Lord Of The Ring0 series</li>
 </ul><br />
 📙 Currently learning:
