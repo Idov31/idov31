@@ -8,6 +8,7 @@
 💭 Currently working on: 
 <ul>
   <li>Lord Of The Ring0 series</li>
+  <li>Cronos blog post</li>
 </ul><br />
 📙 Currently learning:
 <ul>
