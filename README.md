@@ -9,6 +9,7 @@
 <ul>
   <li>Lord Of The Ring0 series</li>
   <li>Cronos blog post</li>
+  <li>Nidhogg v0.2</li>
 </ul><br />
 📙 Currently learning:
 <ul>
