@@ -1,31 +1,53 @@
 
 <h1 align="center">Hi there! 👋</h1>
-<b>👨🏻‍💻 About me:</b><br />
-4+ Years of expirence in cyber security.<br />
-7+ Years of expirence in programming.<br /><br />
-💻⚡ I'm an offensive security researcher that loves to create and share projects and other nice stuff. ⚡💻
-<br /><br />
-💭 Currently working on: 
-<ul>
-  <li>Lord Of The Ring0 series</li>
-  <li>Cronos blog post</li>
-  <li>Nidhogg v0.2</li>
-</ul><br />
-📙 Currently learning:
-<ul>
-  <li>Exploitation Methods</li>
-</ul><br />
+
+**👨🏻‍💻 About me:**
+
+💻 I'm security researcher that also loves to code and share the research online.
+
+⭐ You can find here several public projects that I have done regarding injection, obfuscation and other tools to evade detection (mostly for windows os).
+
+⚒️ Other then that, you can also find here kernel stuff (like Nidhogg and the blog series Lord Of The Ring0).
+
+❤️ If you like my work or want access to exclusive projects you can support me via the sponsorship program (COMING SOON).
+
+📧 Feel free to contact me via [Twitter](https://twitter.com/Idov31) or [mail](mailto:idov3110@gmail.com) regarding any of my projects or publications.
+
+<br />
+
+**💭 Currently working on:**
+
+- Lord Of The Ring0 series
+
+- Cronos blog post
+
+- Nidhogg v0.2
+
+<br />
+
+**📙 Currently learning:**
+
+- Exploitation Methods
+
+<br />
+
 <!-- 💡 Need help with: 
 <ul>
   <li>things</li>
 </ul><br /><br /> -->
-🌐 My blog posts:
-<ul>
-  <li><a href="https://idov31.github.io/2022-07-14-lord-of-the-ring0-p1/">Lord Of The Ring0</a></li>
-  <li><a href="https://idov31.github.io/2022-05-07-rust101-rustomware/">Rust101 - Building a ransomware</a></li>
-  <li><a href="https://idov31.github.io/2022-01-28-function-stomping/">The good, the bad and the stomped function</a></li>
-  <li><a href="https://idov31.github.io/2021-08-19-list-udp-connections/">UdpInspector - Getting active UDP connections without sniffing</a></li>
-</ul><br /><br />
+
+**🌐 My blog posts:**
+
+- [Lord Of The Ring0](https://idov31.github.io/2022-07-14-lord-of-the-ring0-p1)
+
+- [Rust101 - Building a ransomware](https://idov31.github.io/2022-05-07-rust101-rustomware)
+
+- [The good, the bad and the stomped function](https://idov31.github.io/2022-01-28-function-stomping)
+
+- [UdpInspector - Getting active UDP connections without sniffing](https://idov31.github.io/2021-08-19-list-udp-connections)
+
+<br />
+
 <div align="center">
   <h2 style="color:lightblue">⚒️ Programming Languages ⚒️</h2>
     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;&nbsp;&nbsp;
