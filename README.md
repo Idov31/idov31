@@ -3,7 +3,7 @@
 
 **👨🏻‍💻 About me:**
 
-💻 I'm security researcher that also loves to code and share the research online.
+I'm security researcher that also loves to code and share the research online.
 
 ⭐ You can find here several public projects that I have done regarding injection, obfuscation and other tools to evade detection (mostly for windows os).
 
