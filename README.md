@@ -3,11 +3,11 @@
 
 **👨🏻‍💻 About me:**
 
-I'm security researcher that also loves to code and share the research online.
+I'm a security researcher that also loves to code and share his research online.
 
 ⭐ You can find here several public projects that I have done regarding injection, obfuscation and other tools to evade detection (mostly for windows os).
 
-⚒️ Other then that, you can also find here kernel stuff (like Nidhogg and the blog series Lord Of The Ring0).
+⚒️ Other than that, you can also find here kernel stuff (like Nidhogg and the blog series Lord Of The Ring0).
 
 ❤️ If you like my work or want access to exclusive projects you can support me via the sponsorship program (COMING SOON).
 
