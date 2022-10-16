@@ -19,8 +19,6 @@ I'm a security researcher that also loves to code and share his research online.
 
 - Lord Of The Ring0 series
 
-- Cronos blog post
-
 - Nidhogg v0.2
 
 <br />
