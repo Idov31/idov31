@@ -17,13 +17,13 @@ I'm a security researcher that also loves to code and share his research online.
 
 **💭 Currently working on:**
 
-- Lord Of The Ring0 series
+- Nidhogg
 
 <br />
 
 **📙 Currently learning:**
 
-- Exploitation Methods
+- UEFI Development
 
 <br />
 
