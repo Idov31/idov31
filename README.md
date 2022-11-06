@@ -36,6 +36,8 @@ I'm a security researcher that also loves to code and share his research online.
 
 - [Lord Of The Ring0](https://idov31.github.io/2022-07-14-lord-of-the-ring0-p1)
 
+- [timeout /t 31 && start evil.exe](https://idov31.github.io/2022/11/06/cronos-sleep-obfuscation.html)
+
 - [Rust101 - Building a ransomware](https://idov31.github.io/2022-05-07-rust101-rustomware)
 
 - [The good, the bad and the stomped function](https://idov31.github.io/2022-01-28-function-stomping)
