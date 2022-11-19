@@ -9,8 +9,6 @@ I'm a security researcher that also loves to code and share his research online.
 
 ⚒️ Other than that, you can also find here kernel stuff (like Nidhogg and the blog series Lord Of The Ring0).
 
-❤️ If you like my work or want access to exclusive projects you can support me via the sponsorship program (TBA).
-
 📧 Feel free to contact me via [Twitter](https://twitter.com/Idov31) or [mail](mailto:idov3110@gmail.com) regarding any of my projects or publications.
 
 <br />
