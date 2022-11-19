@@ -32,15 +32,15 @@ I'm a security researcher that also loves to code and share his research online.
 
 **🌐 My blog posts:**
 
-- [Lord Of The Ring0](https://idov31.github.io/2022-07-14-lord-of-the-ring0-p1)
+- [Lord Of The Ring0](https://idov31.github.io/2022/07/14/lord-of-the-ring0-p1.html)
 
 - [timeout /t 31 && start evil.exe](https://idov31.github.io/2022/11/06/cronos-sleep-obfuscation.html)
 
-- [Rust101 - Building a ransomware](https://idov31.github.io/2022-05-07-rust101-rustomware)
+- [Rust101 - Building a ransomware](https://idov31.github.io/2022/05/07/rust101-rustomware.html)
 
-- [The good, the bad and the stomped function](https://idov31.github.io/2022-01-28-function-stomping)
+- [The good, the bad and the stomped function](https://idov31.github.io/2022/01/28/function-stomping.html)
 
-- [UdpInspector - Getting active UDP connections without sniffing](https://idov31.github.io/2021-08-19-list-udp-connections)
+- [UdpInspector - Getting active UDP connections without sniffing](https://idov31.github.io/2021/08/19/list-udp-connections.html)
 
 <br />
 
