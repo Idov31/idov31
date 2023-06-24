@@ -3,11 +3,7 @@
 
 **👨🏻‍💻 About me:**
 
-I'm a security researcher that also loves to code and share his research online.
-
-⭐ You can find here several public projects that I have done regarding injection, obfuscation and other tools to evade detection (mostly for windows os).
-
-⚒️ Other than that, you can also find here kernel stuff (like Nidhogg and the blog series Lord Of The Ring0).
+I am a security researcher, who has worked in various cybersecurity roles over the past 5 years. My main interests are OS internals, reverse engineering, kernel development and exploit development. In my free time, I am working on projects in the areas of evasion, persistence and injection methods for both kernel mode and user mode and based on these projects I am publishing educational papers.
 
 📧 Feel free to contact me via [Twitter](https://twitter.com/Idov31), [Telegram](https://t.me/idov31) or [mail](mailto:idov3110@gmail.com) regarding any of my projects or publications.
 
@@ -15,7 +11,8 @@ I'm a security researcher that also loves to code and share his research online.
 
 **💭 Currently working on:**
 
-- Nidhogg
+- New projects
+- New papers
 
 <br />
 
