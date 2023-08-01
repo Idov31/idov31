@@ -41,6 +41,12 @@ I am a security researcher, who has worked in various cybersecurity roles over t
 
 <br />
 
+**🗣️ Talks:**
+
+- [(Lady|)Lord Of The Ring0](https://www.youtube.com/watch?v=CVJmGfElqw0)
+
+<br />
+
 <div align="center">
   <h2 style="color:lightblue">⚒️ Programming Languages ⚒️</h2>
     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;&nbsp;&nbsp;
