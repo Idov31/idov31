@@ -43,7 +43,7 @@ I am a security researcher, who has worked in various cybersecurity roles over t
 
 **🗣️ Talks:**
 
-- [(Lady|)Lord Of The Ring0](https://www.youtube.com/watch?v=CVJmGfElqw0)
+- [(Lady|)Lord Of The Ring0 - BSidesTLV 2023](https://www.youtube.com/watch?v=CVJmGfElqw0)
 
 <br />
 
