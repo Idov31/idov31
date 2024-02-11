@@ -57,7 +57,7 @@ I am a security researcher, who has worked in various cybersecurity roles over t
     <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"></code>&nbsp;&nbsp;&nbsp;
-    <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg"></code>
+    <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"></code>
 </div>
 <br /><br />
 <h2 align="center" style="color:lightblue">📊 My stats 📊</h2><br />
