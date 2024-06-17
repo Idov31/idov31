@@ -43,7 +43,8 @@ I am a security researcher, who has worked in various cybersecurity roles over t
 
 **🗣️ Talks:**
 
-- [(Lady|)Lord Of The Ring0 - BSidesTLV 2023](https://www.youtube.com/watch?v=CVJmGfElqw0)
+- [Kernel Games: The Ballad of Offense & Defense - X33fCon 2024](https://github.com/Idov31/talks-and-publications/tree/master/X33fCon/2024)
+- [(Lady|)Lord Of The Ring0 - BSidesTLV 2023](https://github.com/Idov31/talks-and-publications/tree/master/BSidesTLV/2023)
 
 <br />
 
