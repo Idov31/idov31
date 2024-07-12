@@ -3,7 +3,7 @@
 
 **👨🏻‍💻 About me:**
 
-I am a security researcher, who has worked in various cybersecurity roles over the past 5 years. My main interests are OS internals, reverse engineering, kernel development and exploit development. In my free time, I am working on projects in the areas of evasion, persistence and injection methods for both kernel mode and user mode and based on these projects I am publishing educational papers.
+I am an experienced security researcher who has worked in various cybersecurity roles. My main interests are OS internals, reverse engineering, kernel development and exploit development. In my free time, I am working on projects regarding evasion, persistence, and injection methods for UEFI, kernel, and user mode. Based on these, I publish educational papers and presents talks to give back to the cybersecurity community.
 
 📧 Feel free to contact me via [Twitter](https://twitter.com/Idov31), [Telegram](https://t.me/idov31) or [mail](mailto:idov3110@gmail.com) regarding any of my projects or publications.
 
@@ -12,15 +12,18 @@ I am a security researcher, who has worked in various cybersecurity roles over t
 **💭 Currently working on:**
 
 - New projects
+
 - New papers
+
+- New talks
 
 <br />
 
-**📙 Currently learning:**
+<!-- **📙 Currently learning:**
 
 - UEFI Development
 
-<br />
+<br />-->
 
 <!-- 💡 Need help with: 
 <ul>
@@ -29,15 +32,15 @@ I am a security researcher, who has worked in various cybersecurity roles over t
 
 **🌐 My blog posts:**
 
-- [Lord Of The Ring0](https://idov31.github.io/2022/07/14/lord-of-the-ring0-p1.html)
+- [Lord Of The Ring0](https://idov31.github.io/posts/lord-of-the-ring0-p1)
 
-- [timeout /t 31 && start evil.exe](https://idov31.github.io/2022/11/06/cronos-sleep-obfuscation.html)
+- [timeout /t 31 && start evil.exe](https://idov31.github.io/posts/cronos-sleep-obfuscation)
 
-- [Rust101 - Building a ransomware](https://idov31.github.io/2022/05/07/rust101-rustomware.html)
+- [Rust101 - Building a ransomware](https://idov31.github.io/posts/rust101-rustomware)
 
-- [The good, the bad and the stomped function](https://idov31.github.io/2022/01/28/function-stomping.html)
+- [The good, the bad and the stomped function](https://idov31.github.io/posts/function-stomping)
 
-- [UdpInspector - Getting active UDP connections without sniffing](https://idov31.github.io/2021/08/19/list-udp-connections.html)
+- [UdpInspector - Getting active UDP connections without sniffing](https://idov31.github.io/posts/list-udp-connections)
 
 <br />
 
@@ -56,7 +59,6 @@ I am a security researcher, who has worked in various cybersecurity roles over t
     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"></code>
 </div>
