@@ -57,6 +57,7 @@ I am an experienced security researcher who has worked in various cybersecurity 
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>&nbsp;&nbsp;&nbsp;
+    <code><img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>&nbsp;&nbsp;&nbsp;
     <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"></code>&nbsp;&nbsp;&nbsp;
