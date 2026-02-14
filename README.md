@@ -68,4 +68,4 @@ I am an experienced security researcher who has worked in various cybersecurity 
 
 ![Ido's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=idov31&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff)
 
-![Ido's Trophies](https://github-profile-trophy.vercel.app/?username=idov31&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=tokyonight&margin-w=15&margin-h=14)
+![Ido's Trophies](https://github-profile-trophy-tawny.vercel.app/?username=idov31&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=tokyonight&margin-w=15&margin-h=14)
