@@ -32,7 +32,7 @@ I am a senior security researcher who has worked in various cybersecurity roles.
 
 <br />
 
-**🌐 My blog posts:**
+**🌐 Articles:**
 
 - [Hypervisor Based Defense](https://idov31.github.io/posts/hypervisor-based-defense)
 
