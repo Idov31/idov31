@@ -3,7 +3,7 @@
 
 **👨🏻‍💻 About me:**
 
-I am an experienced security researcher who has worked in various cybersecurity roles. My main interests are OS internals, reverse engineering, kernel development and exploit development. In my free time, I am working on projects regarding evasion, persistence, and injection methods for UEFI, kernel, and user mode. Based on these, I publish educational papers and presents talks to give back to the cybersecurity community.
+I am a senior security researcher who has worked in various cybersecurity roles. My main interests are OS internals, security research, vulnerability research, reverse engineering, hypervisors, kernel, UEFI and exploit development. In my free time, I am working on projects regarding evasion, persistence, and injection methods for UEFI, hypervisors, kernel, and user mode. Based on these, I publish educational papers and presents talks to give back to the cybersecurity community.
 
 📧 Feel free to contact me via [Twitter](https://twitter.com/Idov31), [Telegram](https://t.me/idov31) or [mail](mailto:idov3110@gmail.com) regarding any of my projects or publications.
 
@@ -19,18 +19,22 @@ I am an experienced security researcher who has worked in various cybersecurity 
 
 <br />
 
-<!-- **📙 Currently learning:**
+**🗣️ Talks:**
 
-- UEFI Development
+- [Kernel Games: The Ballad of Offense & Defense - X33fCon 2024](https://github.com/Idov31/talks-and-publications/tree/master/X33fCon/2024)
+- [(Lady|)Lord Of The Ring0 - BSidesTLV 2023](https://github.com/Idov31/talks-and-publications/tree/master/BSidesTLV/2023)
 
-<br />-->
+<br />
 
-<!-- 💡 Need help with: 
-<ul>
-  <li>things</li>
-</ul><br /><br /> -->
+**📕 Courses:**
+
+- [Windows Kernel: Offensive, Defensive & Reverse Engineering](https://www.xintra.org/courses/11-windows-kernel-offensive-defensive-reverse-engineering)
+
+<br />
 
 **🌐 My blog posts:**
+
+- [Hypervisor Based Defense](https://idov31.github.io/posts/hypervisor-based-defense)
 
 - [Lord Of The Ring0](https://idov31.github.io/posts/lord-of-the-ring0-p1)
 
@@ -41,13 +45,6 @@ I am an experienced security researcher who has worked in various cybersecurity 
 - [The good, the bad and the stomped function](https://idov31.github.io/posts/function-stomping)
 
 - [UdpInspector - Getting active UDP connections without sniffing](https://idov31.github.io/posts/list-udp-connections)
-
-<br />
-
-**🗣️ Talks:**
-
-- [Kernel Games: The Ballad of Offense & Defense - X33fCon 2024](https://github.com/Idov31/talks-and-publications/tree/master/X33fCon/2024)
-- [(Lady|)Lord Of The Ring0 - BSidesTLV 2023](https://github.com/Idov31/talks-and-publications/tree/master/BSidesTLV/2023)
 
 <br />
 
