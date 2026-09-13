@@ -33,7 +33,9 @@ I am a senior security researcher who has worked in various cybersecurity roles.
 
 <br />
 
-**🌐 Articles:**
+**🌐 Articles & Videos:**
+
+- [Inside ETW With EtwSuite](https://idov31.github.io/posts/inside-etw-with-etwsuite)
 
 - [Hypervisor Based Defense](https://idov31.github.io/posts/hypervisor-based-defense)
 
