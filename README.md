@@ -21,7 +21,7 @@ I am a senior security researcher who has worked in various cybersecurity roles.
 
 **🗣️ Talks:**
 
-- Breaking the Boot Chain: Bootkitting Ubuntu for Fun and Profit - SEC-T 2026
+- [Breaking the Boot Chain: Bootkitting Ubuntu for Fun and Profit - SEC-T 2026](https://www.youtube.com/watch?v=s22wW8I_Jxk)
 - [Kernel Games: The Ballad of Offense & Defense - X33fCon 2024](https://github.com/Idov31/talks-and-publications/tree/master/X33fCon/2024)
 - [(Lady|)Lord Of The Ring0 - BSidesTLV 2023](https://github.com/Idov31/talks-and-publications/tree/master/BSidesTLV/2023)
 
